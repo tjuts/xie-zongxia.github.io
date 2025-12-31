@@ -54,6 +54,6 @@ IEEE Transactions on Circuits and Systems for Video Technology
 ICML 2025, NeurIPS 2025, AAAI 2025
 
 
-## Courses
+## Teaching
 主讲《数据仓库与数据挖掘（双语）》课程
 
