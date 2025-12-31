@@ -14,18 +14,10 @@ My research interests are on time series analysis and their applications on spac
 
 ## 研究领域
 🔥 Machine Learning: Data mining, Time series analysis, Large-laguage model.
+
 🔥 Application: Space weather forecasting, Smart city, Weibo Popilarity prediction.
 
 ## 实验室招聘
 * 长期招收与实验室方向相符的博士后，可随时联系；
-* 招收2027、2028级学术及工程博士（含在职工程博士）；
-* 博士申请标准：
-（1）思想端正，身心健康，积极向上；
-（2）申请学术博士的申请人需要在硕士阶段以第一作者或者导师第一学生第二发表过至少一篇CCF B类或二区及以上论文；
-（3）具请工程博士的申请人需要在硕士阶段发表过SCI论文，且有良好的项目沟通和代码实现能力。
-（4）所有博士申请人都需要提前做三个月以上的实验室科研助理。
-* 全日制学术博士和工程博士在满足上述条件的情况下，能提前通过线上和线下来实验室做科研助理者优先。
-* 在职工程博士申请人在满足学校报名条件的情况下，能建立校企合作。
+* 招收2026、2027级硕士、博士研究生，欢迎申请加入课题组；
 * 随时欢迎具有自驱力&上进心的学生联系我开展研究合作。 欢迎通过[电子邮件](caddiexie@hotmail.com)与我联系。
-
-
