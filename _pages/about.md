@@ -19,6 +19,7 @@ My research interests focus on time series analysis and its applications to spac
 * 长期招聘博士后研究人员，从事时间序列建模与智能预测相关研究；
 * 面向 2026、2027 级招收硕士与博士研究生，欢迎对科研具有浓厚兴趣的优秀学生加入；
 * 欢迎具备良好科研基础、自驱力与探索精神的学生联系并开展科研合作。
+
 联系方式：[caddiexie@hotmail.com](mailto:caddiexie@hotmail.com)
 
 ## Selected Publications
