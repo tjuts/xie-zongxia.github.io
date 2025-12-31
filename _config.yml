@@ -26,8 +26,8 @@ author:
   avatar           : "profile.JPG"
   name             : "Zongxia Xie"
   pronouns         :  # example: "she/her"  
-  bio              : "Prof."
-  location         : "Tianjin"
+  bio              : "Professor"
+  location         : "Tianjin, China"
   employer         : "Tianjin University"
   uri              : # URL
   email            : "caddiexie@hotmail.com" 
@@ -35,10 +35,10 @@ author:
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : # "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0003-4725-9290"
   semantic         : # URL
   ssrn             : # URL
   pubmed           : # URL
