@@ -24,7 +24,7 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.JPG"
-  name             : "Zongxia Xie （谢宗霞）"
+  name             : "Zongxia Xie\\（谢宗霞）"
   pronouns         :  # example: "she/her"  
   bio              : "Professor"
   location         : "Tianjin, China"
