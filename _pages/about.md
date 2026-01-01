@@ -1,6 +1,5 @@
 ---
 permalink: /
-title: "Home"
 author_profile: true
 redirect_from: 
   - /about/
@@ -38,7 +37,7 @@ My research interests focus on time series analysis and its applications to spac
 4. Wenzhe Nie, Zongxia Xie*, Yanru Sun, Wei He, Man Xu, Chao Hao. [LangTime: A Language-Guided Unified Model for Time Series Forecasting with Proximal Policy Optimization](https://openreview.net/pdf?id=VfoKOD65Zq)[C]. ICML, 2025.
 5. Yanru Sun, Zongxia Xie*, Dongyue Chen, Emadeldeen Eldele, Qinghua Hu. [Hierarchical Classification Auxiliary Network for Time Series Forecasting](https://arxiv.org/pdf/2405.18975)[C]. AAAI. 2025.
 6. Canhua Guan, Zongxia Xie*, Haoyu Wang, Haoyu Xing. [Frequency-Domain Popularity Forecasting with Shape-Based Retrieval](https://ieeexplore.ieee.org/abstract/document/10890605)[C]. ICASSP, 2025.
-7. Zhaobin Meng, Zongxia Xie*. MPPG: Pluggable Multi-Periodic Pattern-Guided Approach for Multivariate Time Series Anomaly Detection[C]. DASFAA, 2025.
+7. Zhaobin Meng, Zongxia Xie*. [MPPG: Pluggable Multi-Periodic Pattern-Guided Approach for Multivariate Time Series Anomaly Detection](https://dasfaa2025.github.io/paper/research/research_875_paper.pdf)[C]. DASFAA, 2025.
 8. Shuai Wu, Ruonan Liu, Zongxia Xie, Zhibo Pang. [Map-SemNav: Advancing Zero-Shot Continuous Vision-and-Language Navigation Through Visual Semantics and Map Integration](https://ieeexplore.ieee.org/abstract/document/11127282)[C]. ICRA, 2025.
 9. Ping Kong, Ruonan Liu, Zongxia Xie, Zhibo Pang. [VLN-KHVR: Knowledge-And-History Aware Visual Representation for Continuous Vision-and-Language Navigation](https://ieeexplore.ieee.org/abstract/document/11127961)[C]. ICRA, 2025.
 
