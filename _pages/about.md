@@ -47,6 +47,7 @@ My research interests focus on time series analysis and its applications to spac
 * Journal Reviewer
 
 IEEE Transactions on Neural Networks and Learning Systems
+
 IEEE Transactions on Circuits and Systems for Video Technology
 
 * Conference Reviewer
